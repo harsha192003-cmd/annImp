@@ -10,7 +10,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
-
+    
 # Model / artifacts (optional – keep only if needed)
 *.h5
 *.pkl
